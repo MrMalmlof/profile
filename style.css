@@ -1,0 +1,74 @@
+body {
+  background-color: EDEDED;
+}
+
+h1 {
+  font-size: 40px;
+  color: B97A95;
+  font-family: 'Zen Antique Soft', serif;
+}
+
+h2 {
+  color:black;
+  margin: 10px;
+  font-size: 20px;
+  font-family: 'Zen Antique Soft', serif;
+
+}
+
+p {
+  font-size: 15;
+  font-family: 'Zen Kurenaido', sans-serif;
+  text-decoration: none
+}
+
+a {
+  text-decoration: none;
+  color: 290FBA;
+  }
+
+a:hover {
+  color: rgb(189, 63, 14);
+  text-decoration: underline;
+}
+
+.btn-red {
+  color: rgb(22, 22, 228);
+  background-color: rgb(192, 154, 105);
+  padding: 5px;
+  border-radius: 20px;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+  border-radius: 100px;
+}
+div {
+  text-align: center;
+  padding: 0px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+.container {
+  padding: 30px;
+  margin: 20px auto;
+  width: 600px;
+  text-align: center;
+}
+
+.card {
+  background-color: rgb(172, 150, 150);
+  box-shadow: 0 10px 30px rgba(248, 244, 244, 0.1);
+  border-radius: 15px;
+  padding: 20px;
+  margin: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.li {
+  display: inline block;
+}
